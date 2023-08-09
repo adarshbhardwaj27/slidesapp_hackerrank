@@ -1,0 +1,28 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#navigation {
+  margin-bottom: 2rem;
+}
+
+#navigation button {
+  margin-right: 1rem;
+}
+
+#slide {
+  background-color: #ffffcc;
+  border: 5px solid black;
+  padding: 1rem;
+  min-height: 300px;
+}
+
+button {
+  margin: 10px;
+  background-color: #ffffcc;
+  min-height: 64px;
+  min-width: 159px;
+  border-radius: 39px;
+}
